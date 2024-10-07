@@ -4,7 +4,7 @@ import Swal from 'sweetalert2'
 import VueCookies from 'vue-cookies';
 import router from '@/router' // Make sure the path is correct
 
-const BASE_URL = "https://backend-ticket-npfje6qvu-unity-jnr-a12c5e00.vercel.app/"
+const  BASE_URL = "https://backend-ticket-1.onrender.com/"
 
 axios.defaults.withCredentials = true
 
